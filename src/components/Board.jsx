@@ -39,6 +39,7 @@ const Board = () => {
                 <Letter letterPos={3} attemptVal={4} />
                 <Letter letterPos={4} attemptVal={4} />
             </div>
+            
         </div>
     )
 }
